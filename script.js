@@ -1,3 +1,3 @@
-Let num 1;
-Let num 2;
-Let num 3;
+Let num1;
+Let num2;
+Let num3;
